@@ -12,5 +12,5 @@ This plugin is still in its early phases, more will be added.
 1. With Pathogen: Place `vim-corpus/` in `.vim/bundle/`.
 
 ## Usage
-Pressing <Leader>e will put the current buffer in corpus mode. To show the word
-(and other stats) count, press <Leader>w.
+Pressing `<Leader>e` will put the current buffer in corpus mode. To show the word
+(and other stats) count, press `<Leader>w.`
