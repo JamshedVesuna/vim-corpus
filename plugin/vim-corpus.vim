@@ -4,7 +4,7 @@
 "================================================
 
 function! Vim_Corpus()
-  setlocal textwidth=80
+  setlocal textwidth=200
   setlocal ruler
   setlocal number
   setlocal ignorecase
